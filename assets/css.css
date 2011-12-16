@@ -1,0 +1,32 @@
+body { 
+	background-color: #666
+}
+
+ul { 
+	list-style-type: none; 
+	padding-left: 0px; 
+	background-color: white; 
+	border: 1px solid black
+}
+
+.contact_name { 
+	text-align: center;
+	font-size: large; 
+	padding-left: 2px; 
+	border: 1px solid #333; 
+	color: white;
+	background-color: black
+}
+
+.contact_numbers {
+	display: none;
+}
+.contact_number { 
+	color: blue; 
+	font-size: medium
+}
+.no_number{
+	color: black;
+	font-size: medium
+}
+	
